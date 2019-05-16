@@ -10,6 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".kotlin.HomeActivity"/>
+        <activity android:name=".kotlin.recyclerview.RecyclerViewActivity"/>
         <activity android:name=".java.HomeActivity"/>
         <activity android:name=".MainActivity">
             <intent-filter>

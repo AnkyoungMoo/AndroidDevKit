@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         btn_main_go_kotlin.setOnClickListener {
-            startActivity(Intent(this, km.company.com.androiddevkit.kotlin.HomeActivity::class.java))
+            startActivity(Intent(this, km.company.com.androiddevkit.kotlin.recyclerview.RecyclerViewActivity::class.java))
         }
     }
 }
